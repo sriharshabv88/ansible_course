@@ -1,2 +1,2 @@
-192.168.31.157
-sbv2@192.168.31.254
+192.168.31.157 apache_package= apache2 php_package=libapache2-mod-php
+sbv2@192.168.31.254 apache_package=httpd php_package=php
